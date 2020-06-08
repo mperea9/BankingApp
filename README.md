@@ -1,2 +1,2 @@
 # BankingApp
-JAVA Banking App
+JAVA Banking App in BlueJ
